@@ -5,3 +5,11 @@
 1. https://github.com/lyandut/HUST-Invictus
 2. https://github.com/AlexFanw/HUSTER-CS
 3. hadoop：https://github.com/ZhangQi1996/hust_cs_bayes
+
+## 组会需要讲清楚 ：
+1. 目的：要解决的是什么问题？比如，设计算法实现哪些维度之间的权衡。
+2. 评估指标：如何评估算法达到了这个目的。
+3. 问题的形式化：怎么用数学公式表示需要解决的问题？结合通俗易懂的语言辅助解释。
+4. 算法：核心步骤对应的伪代码，辅之以大白话解释，讲清楚如何实现上述目的的。
+5.  baseline有哪些，目的各是什么。
+6.  结果如何（可选）。
